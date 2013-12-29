@@ -1,0 +1,7 @@
+* text=auto !eol
+/Makefile -text
+/apertium-tt-ky.tt-ky.dix -text
+/apertium-tt-ky.tt-ky.t1x -text
+/apertium-tt-ky.tt-ky.t2x -text
+/apertium-tt-ky.tt-ky.t3x -text
+/input -text
